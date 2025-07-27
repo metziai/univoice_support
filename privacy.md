@@ -31,7 +31,7 @@ No usage analytics, tracking, or behavioral profiling is performed.
 
 UniVoice processes your spoken input either **locally on your device** or through trusted third-party services such as **Microsoft Azure**, **Google Cloud** and  **Open AI**  to deliver accurate speech recognition, translation, summary and text polishing.
 
-We want to be absolutely clear:  
+We want to be clear:  
 > 🛑 **UniVoice does NOT store, log, or retain any raw audio data. Ever.**
 
 - Audio is streamed temporarily for real-time transcription and translation only.
@@ -84,6 +84,7 @@ Your account information is used **only for authentication and session tracking*
 
 You can:
 - Sign out or delete your account at any time
+Attention! **Deleting your account** will permanently delete your account and any remaining usage time. This action cannot be undone!
 - Reset your trial usage manually
 - Contact us to request data deletion
 
