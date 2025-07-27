@@ -23,7 +23,7 @@ Available now on the iOS App Store.
 ---
 
 ## 🔗 Quick Links
-
+- [📄 Support](https://metziai.github.io/univoice_support/support)
 - [🔐 Privacy Policy](https://metziai.github.io/univoice_support/privacy)
 - [📄 Terms of Use](https://metziai.github.io/univoice_support/terms)
 - [📧 Contact Support](mailto:metziai1981@gmail.com)
