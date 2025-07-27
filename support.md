@@ -63,8 +63,8 @@ You can:
 ## 📄 Terms & Privacy
 
 Please refer to our:
-- [Privacy Policy](https://github.com/metziai/univoice_support/privacy) 
-- [Terms of Use](https://github.com/metziai/univoice_support/terms)
+- [Privacy Policy](https://metziai.github.io/univoice_support/privacy) 
+- [Terms of Use](https://metziai.github.io/univoice_support/terms)
 
 ---
 
