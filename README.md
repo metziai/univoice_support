@@ -59,8 +59,8 @@ You can:
 ## 📄 Terms & Privacy
 
 Please refer to our:
-- [Privacy Policy](https://yourdomain.com/privacy) *(replace if available)*
-- [Terms of Use](https://yourdomain.com/terms)
+- [Privacy Policy](https://metziai.github.io/univoice_support/privacy) 
+- [Terms of Use](https://metziai.github.io/univoice_support/terms)
 
 ---
 
