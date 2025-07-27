@@ -63,7 +63,7 @@ These Terms shall be governed by and construed under the laws of Germany (or you
 ## 10. Contact
 
 If you have any questions about these Terms, please contact us at:  
-📧 **support@yourdomain.com**
+📧 **metziai1981@gmail.com**
 
 ---
 
