@@ -24,9 +24,8 @@ Available now on the iOS App Store.
 
 ## 🔗 Quick Links
 
-- [🔐 Privacy Policy](./privacy)
-- [📄 Terms of Use](./terms)
-- [🐞 Report an Issue](https://github.com/metziai/univoice_support/issues)
+- [🔐 Privacy Policy](https://metziai.github.io/univoice_support/privacy)
+- [📄 Terms of Use](https://metziai.github.io/univoice_support/terms)
 - [📧 Contact Support](mailto:metziai1981@gmail.com)
 
 ---
