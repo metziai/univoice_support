@@ -54,13 +54,7 @@ The App is provided “as is” without warranties of any kind. We do not guaran
 
 ---
 
-## 9. Governing Law
-
-These Terms shall be governed by and construed under the laws of Germany (or your home country if different), without regard to its conflict of law provisions.
-
----
-
-## 10. Contact
+## 9. Contact
 
 If you have any questions about these Terms, please contact us at:  
 📧 **metziai1981@gmail.com**
