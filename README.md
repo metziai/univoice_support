@@ -51,8 +51,7 @@ If you're experiencing a problem:
 
 We welcome your ideas and suggestions!  
 You can:
-- Open a new [Discussion](https://github.com/metziai/univoice_support/discussions)
-- Email us directly at: `support@yourdomain.com` *(replace if available)*
+- Email us directly at: `metziai1981@gmail.com`
 
 ---
 
