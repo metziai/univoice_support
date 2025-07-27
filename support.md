@@ -43,12 +43,8 @@ A: You can export transcripts manually using the download button in each mode’
 ## 🐞 Report a Bug
 
 If you're experiencing a problem:
-1. Check open issues to see if it's already reported.
-2. If not, [open a new issue](https://github.com/metziai/univoice_support/issues/new) and include:
-   - iOS version
-   - iPad model
-   - Steps to reproduce
-   - Screenshots (if applicable)
+You can:
+- Email us directly at: `metziai1981@gmail.com`
 
 ---
 
