@@ -38,7 +38,7 @@ The App and its content, including but not limited to text, code, and logos, are
 
 ## 6. Privacy
 
-Your use of the App is also governed by our [Privacy Policy](https://yourdomain.com/privacy). Please review it to understand how we collect and use data.
+Your use of the App is also governed by our [Privacy Policy](https://metziai.github.io/univoice_support/privacy). Please review it to understand how we collect and use data.
 
 ---
 
