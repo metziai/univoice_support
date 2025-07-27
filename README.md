@@ -10,12 +10,17 @@ This repository is here to help users with questions, feedback, and troubleshoot
 
 **UniVoice** is a live speech translation and transcription app built for meetings, travel, and everyday conversations. It offers:
 
-- 🎙️ Simultaneous speech translation
-- 🧠 AI-powered polishing and summarization
-- 🗂️ Speaker identification and blocking
-- ✍️ Editable transcripts
+### 🧩 Core Modes
+- 🎙️ **Simultaneous Mode** – Real-time speech translation with instant audio playback. Ideal for live presentations, events, and on-the-fly interpretation.
+- 🏫 **Meeting & Lecture Mode** – Designed for structured sessions such as team meetings or classroom discussions, with organized multi-speaker transcripts.
+- 💬 **Conversation Mode** – Optimized for short, informal exchanges in restaurants, airports, shops, and travel situations.
 
-Available on the iOS App Store.
+### 🧠 Smart Features
+- ✨ **AI-Powered Polishing & Summarization** – Enhance spoken text for fluency or generate concise conversation summaries with one tap.
+- 🗂️ **Speaker Identification & Blocking** – Automatically tag each speaker and block unwanted speech or background noise with a simple tap.
+- 📝 **Editable Transcripts** – Tap any line to revise, correct, or refine the content in real time.
+
+📱 **Available on the iOS App Store**
 
 ---
 
