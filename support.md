@@ -30,7 +30,27 @@ This repository is here to help users with questions, feedback, and troubleshoot
 A: Launch the app, select your input and output languages, choose a mode, and tap "Start."
 
 **Q: Do I need an account to use it?**  
-A: Free trial is available. Sign in to purchase additional time or sync usage across devices.
+A: No, you can start using the app immediately with a free trial as a guest — no sign-in required.
+
+However, creating an account offers several benefits:
+
+✅ Sync usage across devices (iPhone, iPad, etc.)
+
+✅ Purchase additional time and restore it anytime
+
+✅ Preserve your remaining time, even if you uninstall or switch devices
+
+🔄 Guest Time Migration
+If you’ve used the app as a guest and later choose to sign in, we’ll offer to migrate your remaining trial time to your account — as long as your email is verified. This ensures your remaining access isn’t lost and becomes available across devices.
+
+You’ll see a "Sync Guest Time?" prompt after signing in. Simply confirm to transfer your time to the newly created account.
+
+**Q: 🗑️ What if I delete my account?**
+A: For privacy and security, we comply with data deletion policies. If you delete your account:
+
+!!All purchased or migrated time will be permanently erased.!!
+
+This action cannot be undone.
 
 **Q: Why can't I hear translated speech?**  
 A: Make sure external audio (e.g. Bluetooth headset) is connected. Also check system volume and permissions.
