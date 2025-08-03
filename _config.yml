@@ -1,7 +1,8 @@
 title: UniVoice Support
 description: Official support site for the UniVoice speech translation app.
 theme: jekyll-theme-minimal
-
+github:
+  is_project_page: false
 # Optional: set baseurl only if deploying to a subdirectory (not needed for standard GitHub Pages)
 # baseurl: "/univoice_support"
 
